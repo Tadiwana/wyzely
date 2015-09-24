@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+
+<html>
+
+	<head>
+
+		<title>PLans:attack or defend</title>
+		
+		<link type = "text/css" rel = "stylesheet" href = "stylesheet.css" />
+
+	</head>
+
+	<body>
+
+	<h1 style = "color: white">You're in a situation, you need to choose a side fast. Do you want to join <a href="doc.html"> blue </a> or <span>red</span> </h1>
+	
+	<p>
+
+	<img src= "http://www.tfportal.de/gfx/content/tf2/maps/team_fortress_2_map_overview_2fort.jpg">
+
+
+	</body>
