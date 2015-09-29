@@ -1,5 +1,5 @@
 body {
-	background-image: url("http://1.bp.blogspot.com/-ZE_47zGR2-Y/Ty05R2kqP-I/AAAAAAAAAG8/sEyHpf9ogXI/s1600/RedBlue.png");
+	background-image: url("http://www.hd-wallpapersdownload.com/upload/bulk-upload/blue-and-red-wallpapers-wallpaper.jpg");
 }
 
 h1 {
@@ -7,6 +7,14 @@ h1 {
 	font-size: 50px;
 }
 
+#blue {
+	color:blue;
+}
+
 span {
+	color:red;
+}
+
+#red {
 	color:red;
 }

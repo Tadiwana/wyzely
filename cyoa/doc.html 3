@@ -1,0 +1,20 @@
+<!DOCTYPE HTML3>
+
+<html>
+
+	<head>
+
+		<h1> You picked scout </h1>
+
+		<img src="https://wiki.teamfortress.com/w/images/thumb/2/28/Track_Terrorizer.png/250px-Track_Terrorizer.png?t=20121023170821">
+
+		<link type = "text/css" rel = "stylesheet" href = "stylesheet.css" />
+
+	</head>
+
+	<body>
+
+		<h2> Scout can out run any class but you have to be careful when running in the open or turning to the corner.</h2>
+		<h2> HP: 120 </h2>
+
+	</body>
