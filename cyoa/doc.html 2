@@ -1,4 +1,4 @@
-<!DOCTYPE HTML2>
+<!DOCTYPE HTML>
 
 <html>
 
@@ -15,5 +15,19 @@
 <img src="https://wiki.teamfortress.com/w/images/thumb/8/80/Team_red.png/300px-Team_red.png?t=20111214142351">
 
 	<h1>You have to lead your team to capture the enemies flag to able to win this game.</h1>
-	<h2>What class do you pick:</h2>  <h2><a href="doc.html 3">scout</h2>	 <h2><a href="doc.html 3.1"> soldier</h2>
+	
+	<h2>What class do you pick:</h2>  
+	
+	<h2><a href="doc.html 3">scout</h2>	 
+	
+	<h2><a href="doc.html 3.1"> soldier</h2>	
+	
+	<h2><a href="<!doc.html 3.2>"> pyro</h2>
+
+	<h2><a href="doc.html demo"> demoman</h2>
+
+	<h2><a href="<doc.html heavy>"> heavy</h2>
+
+	<h2><a href="doc.html engineer"> engineer</h2>
+	
 	</body>
