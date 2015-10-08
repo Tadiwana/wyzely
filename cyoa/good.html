@@ -10,14 +10,27 @@
 
 			var test = 0;
 
+			var number_of_clicks =0;
+
 			var add  = function() {
-				test = test += 2;
-				alert("test value is" + test)
+				test = test += 2; 
+				number_of_clicks += 1;
+				if (number_of_clicks >5){
+					alert("stop")
+				}
+				alert("test value is " + test)
 			}
 
 			var subtract  = function() {
 				test = test -= 2;
-				alert("test value is" + test)
+				alert("test value is " + test)
+				number_of_clicks += 1;
+				if (number_of_clicks >5){
+					alert("stop")
+				if (number_of_clicks >10){
+					alert("move on in life")
+				}
+				}
 			}
 
 
