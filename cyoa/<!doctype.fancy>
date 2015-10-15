@@ -1,0 +1,17 @@
+<!doctype.html>
+
+	<html>
+
+		<head>
+
+			<title> This is a great game yay (sarcastic) <title>
+
+			<script>
+
+				var changetextcolor = function () (
+					var color = prompt ("what color" "red");
+					document.getElementByid("changeMe").style.color = color;
+				) 
+
+				var changetextcolor= function 
+

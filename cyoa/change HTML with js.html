@@ -1,0 +1,42 @@
+<!doctype html>
+
+	<html>
+
+		<head>
+
+			<title> This is a great game yay (sarcastic) </title>
+
+			<script>
+
+				var changetextcolor = function () {
+					var color = prompt("what color", "red");
+					document.getElementById("changeMe").style.color = color;
+				} 
+
+				var changetextcolor= function (){
+					var toInsert = prompt("what should the paragraph say", "type here");
+					if (insert.length === 0) {
+						return;
+					}
+					document.getElementById("changeMe").innerHTML = toInsert;
+
+				}
+				
+				var changetheme = function(text, background, font) {
+					document.getElementById("changeMe").style.color = text;
+					document.getElementsByTagName("body")[0].style.backgroundColor = background;
+					document.getElementById("changeMe").style.fontFamily = font;
+					}
+				</script>
+
+		</head>
+
+		<body>
+
+			<button types"button" onclick"changeTextColor()"> What text color should I have?</button>
+			<br /><br />
+			<p onclick = "changetheme('red','orange','cursive')" id = "changeMe">click me to change me</p>
+			<p onclick = "changetheme('green','black','cursive')" id = "changeMe"> click me to change me</p>
+			<p onclick = "changetheme('blue','grey','cursive')" id = "changeMe"> click me to change me</p>
+
+		</body>
