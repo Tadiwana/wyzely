@@ -1,0 +1,48 @@
+<!doctype.html>
+
+	<html>
+
+		<head>
+
+			<title>Java Exercises</title>
+			<script>
+
+				var changeNoun = function() {
+					var noun = prompt("pick a adjective" , "cool");
+					if (noun.length === 0) {
+						return;
+					}
+					document.getElementById ("changeMe").innerHTML = 
+						noun;			
+				}
+
+				var fizzBuzz = function() {
+						for (var i = 1; i < 101; i++) {
+							if (i%3 === 0) 
+								console.log ("fizz") 
+					}
+
+						for (var i = 1) i < 101; i++) {
+							if (i%5 === 0)
+								console.log ("buzz")							
+					} 
+						for (var i = 1; 1 < 101; i++)
+							if (i%5 === 0);
+								console.log ("fizzBuzz")
+				}	
+
+					}
+
+			</script>
+		
+		</head>
+
+		<body>
+
+		<button onclick = "changeNoun()"> Pick a Noun </button>
+
+		<p> There was a <em Id = changeMe> noun </em> girl </p>
+
+		</body>
+
+	</html>
